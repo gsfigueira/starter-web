@@ -5,6 +5,8 @@ for testing adn testing
 
 ## Purpose
 
+the purpose is ........
+
 Sample website with plenty of files for demos
 
 ## Deployment
