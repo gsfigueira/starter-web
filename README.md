@@ -3,6 +3,8 @@
 This repository is for showing how Git and GitHub work
 for testing adn testing
 
+adding this line for rebase
+
 ## Purpose
 
 the purpose is ........
