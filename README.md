@@ -14,6 +14,7 @@ Sample website with plenty of files for demos
 
 ## other section	
 text of te section
+make a donation
 
 
 ## section xxx
