@@ -25,3 +25,4 @@ asdasdasdsa
 
 ## Copyright
 new section....
+todos os direitos reservados
