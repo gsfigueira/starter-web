@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 for testing adn testing
 
 adding this line for rebase, then more changes my feaures branchs,
+updating after stashing
 
 ## Purpose
 
